@@ -1,2 +1,2 @@
-# Algorithms-for-encoding-and-compressing-information
+# Алгоритмы кодирования и сжатия информации
 🐳
